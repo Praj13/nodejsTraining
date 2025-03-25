@@ -1,7 +1,11 @@
 let users = [];
-let idCounter = 1;  // to simulate auto-increment ID
+let idCounter = 1;
+
+function getNewId() {
+  return idCounter++;
+}
 
 module.exports = {
   users,
-  getNewId: () => idCounter++,
+  getNewId,
 };
