@@ -1,0 +1,6 @@
+async await promise
+fetch / axios
+spread operator
+object destructuring 
+array function 
+class 

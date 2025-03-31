@@ -1,0 +1,22 @@
+
+mvc
+
+
+controllers
+    
+    todoController.js
+        create
+        readAll    
+        readSingle 
+        update
+        delete
+
+models
+    todoModel.js 
+        
+
+routes
+
+
+
+app.js 
